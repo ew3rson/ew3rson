@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ewerson  
 
-🎯 Focused on DevOps, Infrastructure and Linux environments  
+🎯 Building skills in Linux, Automation, Software Development, Cloud and DevOps Culture  
 
 #### 🧠 Currently Studying  
 
@@ -18,8 +18,8 @@
 - ⌨️ **CLI Environment Checker**   
   Bash-based workflow that validates environment dependencies, handles permissions and orchestrates execution via Makefile, simulating a real CLI pipeline.  
   
-- 📚 **DevOps & Infrastructure Learning Journey**  
-  Structured knowledge base with notes, glossaries and hands-on labs focused on Linux, Bash and DevOps fundamentals.  
+- 🌱 **Sustainable Practices API**  
+REST API built with NestJS and MongoDB for registering and analyzing sustainable practices, featuring data validation, statistics generation and documented endpoints.
 
 #### 🎓 Education  
 
@@ -33,5 +33,3 @@ Command-line workflows • Linux • Cloud
 #### 👾 Hobbies  
 
 non-fiction books • music / audiophile gear • Big Think videos  
-
-#### 📬 Open to internship opportunities in DevOps / Infrastructure — feel free to connect
