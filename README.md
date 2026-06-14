@@ -6,7 +6,7 @@
 
 - Linux system administration
 - Bash scripting
-- Git and version control
+- Cloud fundamentals / AWS
 - Networking fundamentals
 
 #### 🛠️ Tech Stack  
